@@ -1,2 +1,2 @@
-# GitSearcher
-this is GitSearcher web Application so we find users repos on github and with firebase Authentication for security
+# Firebase-Github-app
+this is app of searching github user info  bu using firebase Authiantication
